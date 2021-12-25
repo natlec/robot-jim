@@ -1,0 +1,6 @@
+{
+    "board": "arduino:avr:uno",
+    "programmer": "arduino:avrisp",
+    "port": "COM6",
+    "sketch": "Sketches\\00.0_Servo_90\\00.0_Servo_90.ino"
+}
